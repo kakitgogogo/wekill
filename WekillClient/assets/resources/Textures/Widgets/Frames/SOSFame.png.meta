@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ffd7fedd-98fe-4694-a69d-d973ef0e22b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SOSFame": {
+      "ver": "1.0.3",
+      "uuid": "3de14028-b9eb-44bf-a805-af732557fdf5",
+      "rawTextureUuid": "ffd7fedd-98fe-4694-a69d-d973ef0e22b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 5,
+      "trimY": 5,
+      "width": 177,
+      "height": 201,
+      "rawWidth": 187,
+      "rawHeight": 211,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e6ae4b95-fc0a-40b1-a76f-0178bb267263",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "HUATUO": {
+      "ver": "1.0.3",
+      "uuid": "fe82ceec-9736-4549-8cda-a812ed1a69ca",
+      "rawTextureUuid": "e6ae4b95-fc0a-40b1-a76f-0178bb267263",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 280,
+      "height": 360,
+      "rawWidth": 280,
+      "rawHeight": 360,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

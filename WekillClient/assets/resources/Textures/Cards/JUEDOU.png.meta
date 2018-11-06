@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "90140d2a-d124-4c58-a934-80009e71147d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "JUEDOU": {
+      "ver": "1.0.3",
+      "uuid": "21b8e771-0109-4111-90e9-c62b9fe23421",
+      "rawTextureUuid": "90140d2a-d124-4c58-a934-80009e71147d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 200,
+      "height": 290,
+      "rawWidth": 200,
+      "rawHeight": 290,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9be78433-3216-472d-8977-77b58497ced6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SUNSHANGXIANG": {
+      "ver": "1.0.3",
+      "uuid": "c5f742c8-3b89-46ca-9643-5f75a8d30176",
+      "rawTextureUuid": "9be78433-3216-472d-8977-77b58497ced6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 280,
+      "height": 360,
+      "rawWidth": 280,
+      "rawHeight": 360,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
